@@ -1,0 +1,9 @@
+D:\curso-baltiere\PaymentContext\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.deps.json
+D:\curso-baltiere\PaymentContext\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.dll
+D:\curso-baltiere\PaymentContext\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.pdb
+D:\curso-baltiere\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.csprojAssemblyReference.cache
+D:\curso-baltiere\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.AssemblyInfoInputs.cache
+D:\curso-baltiere\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.AssemblyInfo.cs
+D:\curso-baltiere\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.csproj.CoreCompileInputs.cache
+D:\curso-baltiere\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.dll
+D:\curso-baltiere\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.pdb
